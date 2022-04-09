@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tituloPelicula">El Origen</string>
+    <string name="extraPelicula">Julio 2010, 180 mins.</string>
+    <string name="prompt_renta">Renta por $1.0</string>
+    <string name="prompt_compra">Adquierela por $10.0</string>
+    <string name="resumenPelicula">Resumen</string>
+</resources>

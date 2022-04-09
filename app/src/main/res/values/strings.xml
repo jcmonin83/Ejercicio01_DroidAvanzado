@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ejercicio01</string>
+    <string name="tituloPelicula">El Origen</string>
+    <string name="extraPelicula">Julio 2010, 180 mins.</string>
+    <string name="prompt_renta">Renta por $1.0</string>
+    <string name="prompt_compra">Adquierela por $10.0</string>
+    <string name="resumenPelicula">Inception (titulada: Origen en España y El origen en Hispanoamérica) es una película británica-canadiense-estadounidense de ciencia ficción escrita, ...</string>
+</resources>
